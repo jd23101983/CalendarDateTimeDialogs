@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calendar Date / Time Pickers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_and_time_picker_dialogs">Date and Time Picker Dialogs</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+</resources>
